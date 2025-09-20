@@ -1,0 +1,20 @@
+body{
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: bold;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30px;
+}
+
+.button{
+    border-radius: 150px;
+    transition: background-color 0.5 ease ;
+    margin: 25px;
+    margin-bottom: 40px;
+    font-size: 2rem;
+    padding: 20px;
+    background: cadetblue;
+    align-items: center;
+}
